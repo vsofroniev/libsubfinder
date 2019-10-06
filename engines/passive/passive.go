@@ -649,6 +649,7 @@ func discover(state *helper.State, domain string, sourceConfig *Source) (subdoma
 		for _, subdomain := range passiveSubdomainsArray {
 			if !state.Silent {
 				fmt.Printf("\n%s\t\t%s", subdomain.IP, subdomain.Fqdn)
+            }
 		}
 	} else {
 		for _, subdomain := range PassiveSubdomains {
