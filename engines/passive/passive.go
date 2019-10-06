@@ -664,7 +664,6 @@ func discover(state *helper.State, domain string, sourceConfig *Source) (subdoma
 
 //Enumerate executes passive analysis
 func Enumerate(state *helper.State) []string {
-    fmt.Println("TEST")
 	sourceConfig := new(Source)
 
 	fmt.Printf("\n")
