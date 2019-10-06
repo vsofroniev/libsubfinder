@@ -1,0 +1,16 @@
+github.com/bogdanovich/dns_resolver v0.0.0-20170211073258-a8e42bc6a5b6 h1:oV1V+uwP+sjmdSkvMxsl/l+HE+N8wbL49wCXZPel25M=
+github.com/bogdanovich/dns_resolver v0.0.0-20170211073258-a8e42bc6a5b6/go.mod h1:txOV61Nn+21z77KUMkNsp8lTHoOFTtqotltQAFenS9I=
+github.com/miekg/dns v1.1.4 h1:rCMZsU2ScVSYcAsOXgmC6+AKOK+6pmQTOcw03nfwYV0=
+github.com/miekg/dns v1.1.4/go.mod h1:W1PPwlIAgtquWBMBEV9nkV9Cazfe8ScdGz/Lj7v3Nrg=
+github.com/subfinder/subfinder v0.0.0-20181025004112-b89ce975d1a5 h1:DryDgVo0affjemWWPVQ2rqbEtyLJkeRdmwUW4Fp3iIU=
+github.com/subfinder/subfinder v0.0.0-20181025004112-b89ce975d1a5/go.mod h1:y4ojd4XrF4LsezRHjQvJlauNKENg8QMfI3XhtQI96Ek=
+github.com/subfinder/subfinder v0.1.1 h1:oo1d++D3yQF/VAHmU8mvNf09UX/IOkBE1X9q3fh3nA4=
+github.com/subfinder/subfinder v0.1.1/go.mod h1:y4ojd4XrF4LsezRHjQvJlauNKENg8QMfI3XhtQI96Ek=
+github.com/subfinder/urlx v0.0.0-20180713194017-8e731c8be06e h1:4KsXAkb+O7wrTVeOLBFpKlZz+mnMKYUdEKMse/Qx+A0=
+github.com/subfinder/urlx v0.0.0-20180713194017-8e731c8be06e/go.mod h1:vDo4EY6KKrc18k3SXV+4LinRx/Sf5LxEOGY3Yc/8ncs=
+golang.org/x/crypto v0.0.0-20190225124518-7f87c0fbb88b h1:+/WWzjwW6gidDJnMKWLKLX1gxn7irUTF1fLpQovfQ5M=
+golang.org/x/crypto v0.0.0-20190225124518-7f87c0fbb88b/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/net v0.0.0-20190225153610-fe579d43d832 h1:2IdId8zoI92l1bUzjAOygcAOkmCe13HY1j0rqPPPzB8=
+golang.org/x/net v0.0.0-20190225153610-fe579d43d832/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/sys v0.0.0-20190225065934-cc5685c2db12 h1:Zw7eRv6INHGfu15LVRN1vrrwusJbnfJjAZn3D1VkQIE=
+golang.org/x/sys v0.0.0-20190225065934-cc5685c2db12/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
