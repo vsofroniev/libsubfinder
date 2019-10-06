@@ -649,9 +649,6 @@ func discover(state *helper.State, domain string, sourceConfig *Source) (subdoma
 		for _, subdomain := range passiveSubdomainsArray {
 			if !state.Silent {
 				fmt.Printf("\n%s\t\t%s", subdomain.IP, subdomain.Fqdn)
-			} else {
-				fmt.Printf("\n%s", subdomain.Fqdn)
-			}
 		}
 	} else {
 		for _, subdomain := range PassiveSubdomains {
@@ -666,6 +663,7 @@ func discover(state *helper.State, domain string, sourceConfig *Source) (subdoma
 
 //Enumerate executes passive analysis
 func Enumeratesa(state *helper.State) []string {
+    fmt.Println("TEST")
 	sourceConfig := new(Source)
 
 	fmt.Printf("\n")
@@ -746,7 +744,6 @@ func Enumeratesa(state *helper.State) []string {
 	// if state.OutputDir != "" {
 	// 	output.WriteOutputToDir(state, allSubdomains, Domain)
 	// }
-    fmt.Println("TEST")
 	return allSubdomains
 }
 
